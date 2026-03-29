@@ -1,0 +1,11 @@
+{
+  "green_time": 10,
+  "yellow_time": 5,
+  "red_time": 59,
+  "lane_count": 4,
+  "confidence_threshold": 0.5,
+  "emergency_detection": true,
+  "auto_priority": true,
+  "arduino_enabled": true,
+  "logging_level": "INFO"
+}
